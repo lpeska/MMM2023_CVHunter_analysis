@@ -1,0 +1,177 @@
+name;ts1;ts2;GT;LogSize;Rank GT+2x5s;Rank;VideoRank;time;ts;category;type;query;filter
+vbs22-kis-t01;1654506254;1654506679;13964: 7595-7850 : 25;10000;2;2;2;25;1654506279;TEXT;JointEmbedding;CLIP: close-up of motorbike exhaust pipe being cleaned;
+vbs22-kis-t01;1654506254;1654506679;13964: 7595-7850 : 25;;;;;33;1654506287;BROWSING;DetailWindowOpen;13964:7706;
+vbs22-kis-t01;1654506254;1654506679;13964: 7595-7850 : 25;;;;;36;1654506290;BROWSING;DetailWindowClose;13964:7706;
+vbs22-kis-t01;1654506254;1654506679;13964: 7595-7850 : 25;;;;;37;1654506291;SUBMIT;;?item=13964&frame=7694&session=node0tp720dt9nchrj6pcr7n1ved417;{"submission":"CORRECT" "description":"Submission correct!" "status":true}
+vbs22-kis-t02;1654506752;1654507177;5863: 2650-2950 : 25;10000;14;14;14;48;1654506800;TEXT;JointEmbedding;Temporal CLIP: rocks hanging over a wooden walkway > wooden bridge over a creek;
+vbs22-kis-t02;1654506752;1654507177;5863: 2650-2950 : 25;;;;;137;1654506889;BROWSING;VideoDetailOpen;9200:750;
+vbs22-kis-t02;1654506752;1654507177;5863: 2650-2950 : 25;;;;;155;1654506907;BROWSING;VideoDetailClose;9200:750;1654506800
+vbs22-kis-t02;1654506752;1654507177;5863: 2650-2950 : 25;;;;;170;1654506922;BROWSING;DetailWindowOpen;5863:2725;
+vbs22-kis-t02;1654506752;1654507177;5863: 2650-2950 : 25;;;;;175;1654506927;BROWSING;DetailWindowClose;5863:2725;
+vbs22-kis-t02;1654506752;1654507177;5863: 2650-2950 : 25;;;;;177;1654506929;SUBMIT;;?item=05863&frame=2919&session=node0tp720dt9nchrj6pcr7n1ved417;{"submission":"CORRECT" "description":"Submission correct!" "status":true}
+vbs22-kis-t03;1654507318;1654507743;12262: 128-375 : 25;10000;1;1;1;21;1654507339;TEXT;JointEmbedding;CLIP: brown-white caravan and a horse in the middle;
+vbs22-kis-t03;1654507318;1654507743;12262: 128-375 : 25;;;;;35;1654507353;BROWSING;DetailWindowOpen;12262:344;
+vbs22-kis-t03;1654507318;1654507743;12262: 128-375 : 25;;;;;37;1654507355;BROWSING;DetailWindowClose;12262:344;
+vbs22-kis-t03;1654507318;1654507743;12262: 128-375 : 25;;;;;37;1654507355;SUBMIT;;?item=12262&frame=344&session=node0tp720dt9nchrj6pcr7n1ved417;{"submission":"CORRECT" "description":"Submission correct!" "status":true}
+vbs22-kis-t06;1654510854;1654511279;4396: 192-360 : 24;10000;259;259;259;31;1654510885;TEXT;JointEmbedding;CLIP: vase glass leather cases and wooden frame slate on a table;
+vbs22-kis-t06;1654510854;1654511279;4396: 192-360 : 24;10000;1414;1414;1414;47;1654510901;TEXT;JointEmbedding;Temporal CLIP: vase glass leather cases and wooden frame slate on a table > board with a timetable;
+vbs22-kis-t06;1654510854;1654511279;4396: 192-360 : 24;;;;;59;1654510913;BROWSING;DetailWindowOpen;9173:5889;
+vbs22-kis-t06;1654510854;1654511279;4396: 192-360 : 24;;;;;72;1654510926;BROWSING;DetailWindowClose;9173:5889;
+vbs22-kis-t06;1654510854;1654511279;4396: 192-360 : 24;10000;4136;4136;4136;93;1654510947;TEXT;JointEmbedding;Temporal CLIP: vase glass leather cases and wooden frame slate on a table welcome to our story > board with a timetable;
+vbs22-kis-t06;1654510854;1654511279;4396: 192-360 : 24;10000;;;6830;120;1654510974;TEXT;JointEmbedding;Temporal CLIP: welcome to our story > timetable;
+vbs22-kis-t06;1654510854;1654511279;4396: 192-360 : 24;10000;1021;1465;348;142;1654510996;TEXT;JointEmbedding;Temporal CLIP: welcome to our story > board with a our wedding text;
+vbs22-kis-t06;1654510854;1654511279;4396: 192-360 : 24;10000;9749;9749;657;169;1654511023;TEXT;JointEmbedding;Temporal CLIP: welcome to our story >  our wedding ;
+vbs22-kis-t06;1654510854;1654511279;4396: 192-360 : 24;10000;2519;2519;874;220;1654511074;TEXT;JointEmbedding;Temporal CLIP: welcome to our story >  "our wedding" text;
+vbs22-kis-t06;1654510854;1654511279;4396: 192-360 : 24;10000;408;408;408;282;1654511136;TEXT;JointEmbedding;Temporal CLIP: table with glass vase and leather case >  "our wedding" text;
+vbs22-kis-t06;1654510854;1654511279;4396: 192-360 : 24;10000;;;;311;1654511165;TEXT;JointEmbedding;CLIP: table with glass vase and leather case ;
+vbs22-kis-t06;1654510854;1654511279;4396: 192-360 : 24;10000;1405;1405;1405;345;1654511199;TEXT;JointEmbedding;Temporal CLIP: table with glass vase and leather case > our wedding timetable;
+vbs22-kis-t06;1654510854;1654511279;4396: 192-360 : 24;10000;1725;1725;1046;358;1654511212;TEXT;JointEmbedding;Temporal CLIP: table with glass  > our wedding timetable;
+vbs22-kis-t06;1654510854;1654511279;4396: 192-360 : 24;;;;;423;1654511277;SUBMIT;;?item=01689&frame=5212&session=node0tp720dt9nchrj6pcr7n1ved417;{"submission":"WRONG" "description":"Submission incorrect! Try again" "status":true}
+vbs22-kis-t07;1654511372;1654511797;3869: 3980-4124 : 23.976025;10000;1;1;1;21;1654511393;TEXT;JointEmbedding;Temporal CLIP: a girl riding a red bicycle > termite trail;
+vbs22-kis-t07;1654511372;1654511797;3869: 3980-4124 : 23.976025;;;;;27;1654511399;SUBMIT;;?item=03869&frame=4052&session=node0tp720dt9nchrj6pcr7n1ved417;{"submission":"CORRECT" "description":"Submission correct!" "status":true}
+vbs22-kis-v01;1654511963;1654512268;6040: 2350-2725 : 25;10000;;;;49;1654512012;TEXT;JointEmbedding;Temporal CLIP: river in the walley with hills > lila flowers;
+vbs22-kis-v01;1654511963;1654512268;6040: 2350-2725 : 25;10000;;;;60;1654512023;TEXT;JointEmbedding;Temporal CLIP: river in the walley with hills > small lila flowers;
+vbs22-kis-v01;1654511963;1654512268;6040: 2350-2725 : 25;10000;;;;83;1654512046;TEXT;JointEmbedding;Temporal CLIP: mountain walley > small lila flowers;
+vbs22-kis-v01;1654511963;1654512268;6040: 2350-2725 : 25;10000;4855;4855;4855;96;1654512059;TEXT;JointEmbedding;Temporal CLIP: mountain walley with a river in the centre > small lila flowers;
+vbs22-kis-v01;1654511963;1654512268;6040: 2350-2725 : 25;10000;3436;3436;3436;116;1654512079;IMAGE;feedbackModel;Temporal Bayes CLIP 16575:2388_3849:8162_10883:288_8301:2038_3849:7531_2177:10656_16470:11658_8728:4556_8960:4038_15650:3331_| group:1|16575:2412_3849:8300_| group:2|199:4538_10563:5724_10563:5769_;
+vbs22-kis-v01;1654511963;1654512268;6040: 2350-2725 : 25;10000;1177;1177;1177;163;1654512126;IMAGE;feedbackModel;Temporal Bayes CLIP 199:4081_5911:5875_10563:5440_2854:1038_14063:22110_1339:4312_3849:10881_4542:11175_2015:3194_2692:360_| group:1|3131:450_6195:1635_2854:3050_| group:2|13982:5106_199:20525_;
+vbs22-kis-v01;1654511963;1654512268;6040: 2350-2725 : 25;10000;515;515;515;194;1654512157;TEXT;JointEmbedding;Temporal CLIP: mountain walley with a river in the centre > clouds over hill;
+vbs22-kis-v01;1654511963;1654512268;6040: 2350-2725 : 25;10000;141;141;141;230;1654512193;TEXT;JointEmbedding;Temporal CLIP: mountain walley with a river in the centre > lilac tree with small flowers;
+vbs22-kis-v01;1654511963;1654512268;6040: 2350-2725 : 25;10000;34;34;34;252;1654512215;IMAGE;feedbackModel;Temporal Bayes CLIP 9691:2956_8238:2720_14427:6231_9458:22156_8809:2828_8608:37756_2692:2138_8238:2960_16515:4600_14170:10789_| group:1|16515:4376_| group:2|8608:38200_;
+vbs22-kis-v01;1654511963;1654512268;6040: 2350-2725 : 25;;;;;272;1654512235;BROWSING;RESET;;
+vbs22-kis-t08;1654512636;1654513061;13108: 3230-3450 : 25;10000;795;795;320;20;1654512656;TEXT;JointEmbedding;CLIP: opened magazine with a bearded man;
+vbs22-kis-t08;1654512636;1654513061;13108: 3230-3450 : 25;10000;237;237;163;78;1654512714;TEXT;JointEmbedding;CLIP: opened magazine with a dawing of a bearded man;
+vbs22-kis-t08;1654512636;1654513061;13108: 3230-3450 : 25;10000;1018;1018;806;152;1654512788;TEXT;JointEmbedding;Temporal CLIP: opened magazine with a dawing of a bearded man > person on a streat reading a magazine;
+vbs22-kis-t08;1654512636;1654513061;13108: 3230-3450 : 25;9581;122;122;71;174;1654512810;IMAGE;feedbackModel;Temporal Bayes CLIP 8077:10181_16851:18690_3611:38054_16851:21908_16851:19012_11340:2990_16851:20355_3611:38377_16851:22132_12837:3306_| group:1|8077:10219_| group:2|8077:10256_;
+vbs22-kis-t08;1654512636;1654513061;13108: 3230-3450 : 25;10000;329;329;329;202;1654512838;TEXT;JointEmbedding;Temporal CLIP: opened magazine with a dawing of a man with white beard> person on a streat reading a magazine;
+vbs22-kis-t08;1654512636;1654513061;13108: 3230-3450 : 25;;;;;216;1654512852;BROWSING;DetailWindowOpen;3611:38347;
+vbs22-kis-t08;1654512636;1654513061;13108: 3230-3450 : 25;;;;;244;1654512880;BROWSING;DetailWindowClose;3611:38347;
+vbs22-kis-t08;1654512636;1654513061;13108: 3230-3450 : 25;10000;2;2;2;272;1654512908;TEXT;JointEmbedding;Temporal CLIP: opened magazine with a dawing of a man with white beard> person on a streat with mask and blue t-shirt reading a magazine;
+vbs22-kis-t08;1654512636;1654513061;13108: 3230-3450 : 25;;;;;278;1654512914;BROWSING;DetailWindowOpen;13108:3356;
+vbs22-kis-t08;1654512636;1654513061;13108: 3230-3450 : 25;;;;;281;1654512917;BROWSING;DetailWindowClose;13108:3356;
+vbs22-kis-t08;1654512636;1654513061;13108: 3230-3450 : 25;;;;;282;1654512918;SUBMIT;;?item=13108&frame=3356&session=node0tp720dt9nchrj6pcr7n1ved417;{"submission":"CORRECT" "description":"Submission correct!" "status":true}
+vbs22-kis-t09;1654513093;1654513427;6057: 33600-34830 : 30;10000;7;7;7;22;1654513115;TEXT;JointEmbedding;CLIP: close-up shot of a yellow slug;
+vbs22-kis-t09;1654513093;1654513427;6057: 33600-34830 : 30;;;;;31;1654513124;SUBMIT;;?item=06057&frame=34665&session=node0tp720dt9nchrj6pcr7n1ved417;{"submission":"CORRECT" "description":"Submission correct!" "status":true}
+vbs22-kis-t10;1654513508;1654513933;12956: 4436-4603 : 23.976025;10000;1;1;1;24;1654513532;TEXT;JointEmbedding;Temporal CLIP: man in a watter slide > man trying to lit a fire on a beach;
+vbs22-kis-t10;1654513508;1654513933;12956: 4436-4603 : 23.976025;;;;;27;1654513535;BROWSING;DetailWindowOpen;12956:4454;
+vbs22-kis-t10;1654513508;1654513933;12956: 4436-4603 : 23.976025;;;;;28;1654513536;BROWSING;DetailWindowClose;12956:4454;
+vbs22-kis-t10;1654513508;1654513933;12956: 4436-4603 : 23.976025;;;;;29;1654513537;SUBMIT;;?item=12956&frame=4454&session=node0tp720dt9nchrj6pcr7n1ved417;{"submission":"CORRECT" "description":"Submission correct!" "status":true}
+vbs22-kis-t11;1654513983;1654514408;15864: 312-623 : 23.976025;10000;673;673;673;24;1654514007;TEXT;JointEmbedding;CLIP: view from upper deck of a ship to a lower deck and watter;
+vbs22-kis-t11;1654513983;1654514408;15864: 312-623 : 23.976025;10000;730;730;730;47;1654514030;TEXT;JointEmbedding;Temporal CLIP: view from upper deck of a ship to a lower deck and watter > front of a ship with a man with the camera;
+vbs22-kis-t11;1654513983;1654514408;15864: 312-623 : 23.976025;10000;223;223;223;88;1654514071;TEXT;JointEmbedding;Temporal CLIP: view from upper deck of a ship to a lower deck with green floor and two orange chairs and watter > front of a ship with a man with the camera;
+vbs22-kis-t11;1654513983;1654514408;15864: 312-623 : 23.976025;10000;322;322;322;96;1654514079;TEXT;JointEmbedding;CLIP: view from upper deck of a ship to a lower deck with green floor and two orange chairs and watter camera;
+vbs22-kis-t11;1654513983;1654514408;15864: 312-623 : 23.976025;10000;239;239;239;101;1654514084;TEXT;JointEmbedding;CLIP: view from upper deck of a ship to a lower deck with green floor and two orange chairs and watter;
+vbs22-kis-t11;1654513983;1654514408;15864: 312-623 : 23.976025;10000;1029;1029;1029;129;1654514112;TEXT;JointEmbedding;CLIP: view to a lower deck with green floor and two orange chairs and watter;
+vbs22-kis-t11;1654513983;1654514408;15864: 312-623 : 23.976025;;;;;139;1654514122;BROWSING;VideoDetailOpen;8493:4019;
+vbs22-kis-t11;1654513983;1654514408;15864: 312-623 : 23.976025;;;;;154;1654514137;BROWSING;VideoDetailClose;8493:4019;1654514112
+vbs22-kis-t11;1654513983;1654514408;15864: 312-623 : 23.976025;10000;409;409;409;214;1654514197;TEXT;JointEmbedding;CLIP:  deck of a ship with green floor and two red chairs ;
+vbs22-kis-t11;1654513983;1654514408;15864: 312-623 : 23.976025;10000;1742;1742;814;230;1654514213;TEXT;JointEmbedding;Temporal CLIP:  deck of a ship with green floor and two red chairs > man with black trousers green jacket and camera;
+vbs22-kis-t11;1654513983;1654514408;15864: 312-623 : 23.976025;10000;1896;1896;1896;247;1654514230;TEXT;JointEmbedding;Temporal CLIP:  deck of a ship with green floor and two red chairs > man with black trousers grey jacket and camera;
+vbs22-kis-t11;1654513983;1654514408;15864: 312-623 : 23.976025;10000;231;231;231;286;1654514269;TEXT;JointEmbedding;Temporal CLIP:  deck of a ship with green floor and two red chairs > tip of a ship;
+vbs22-kis-t11;1654513983;1654514408;15864: 312-623 : 23.976025;;;;;293;1654514276;BROWSING;VideoDetailOpen;8895:5574;
+vbs22-kis-t11;1654513983;1654514408;15864: 312-623 : 23.976025;;;;;301;1654514284;BROWSING;VideoDetailClose;8895:5574;1654514269
+vbs22-kis-t11;1654513983;1654514408;15864: 312-623 : 23.976025;10000;185;185;185;323;1654514306;TEXT;JointEmbedding;CLIP: ship deck from above with green floor;
+vbs22-kis-t11;1654513983;1654514408;15864: 312-623 : 23.976025;10000;886;886;886;343;1654514326;TEXT;JointEmbedding;Temporal CLIP: ship deck from above with green floor > two red chairs on a deck;
+vbs22-kis-t11;1654513983;1654514408;15864: 312-623 : 23.976025;10000;2719;2719;489;410;1654514393;TEXT;JointEmbedding;Temporal CLIP: ship with green floor >man with camera;
+vbs22-kis-t12;1654514455;1654514880;7242: 1000-1300 : 25;10000;375;375;375;27;1654514482;TEXT;JointEmbedding;CLIP: split screen with a building with green facade;
+vbs22-kis-t12;1654514455;1654514880;7242: 1000-1300 : 25;10000;6;6;6;44;1654514499;TEXT;JointEmbedding;CLIP: split screen with a building with green facade with many plants;
+vbs22-kis-t12;1654514455;1654514880;7242: 1000-1300 : 25;;;;;64;1654514519;BROWSING;DetailWindowOpen;7242:1088;
+vbs22-kis-t12;1654514455;1654514880;7242: 1000-1300 : 25;;;;;65;1654514520;BROWSING;DetailWindowClose;7242:1088;
+vbs22-kis-t12;1654514455;1654514880;7242: 1000-1300 : 25;;;;;66;1654514521;SUBMIT;;?item=07242&frame=1088&session=node0tp720dt9nchrj6pcr7n1ved417;{"submission":"CORRECT" "description":"Submission correct!" "status":true}
+vbs22-kis-v02;1654593227;1654593532;8936: 2278-2565 : 23.976025;10000;518;518;208;20;1654593247;TEXT;JointEmbedding;CLIP: circus in the night;
+vbs22-kis-v02;1654593227;1654593532;8936: 2278-2565 : 23.976025;10000;843;843;843;38;1654593265;TEXT;JointEmbedding;Temporal CLIP: circus in the night > small crowd;
+vbs22-kis-v02;1654593227;1654593532;8936: 2278-2565 : 23.976025;10000;384;384;384;67;1654593294;IMAGE;feedbackModel;Temporal Bayes CLIP 16249:27531_16249:29512_2122:16476_12051:4581_2122:15360_2122:11336_3239:4926_16249:18738_16249:10775_16249:30125_| group:1|2122:16536_2122:11921_;
+vbs22-kis-v02;1654593227;1654593532;8936: 2278-2565 : 23.976025;10000;77;77;77;99;1654593326;TEXT;JointEmbedding;Temporal CLIP: circus in the night > several persons facing the camera in the night;
+vbs22-kis-v02;1654593227;1654593532;8936: 2278-2565 : 23.976025;;;;;122;1654593349;BROWSING;DetailWindowOpen;8936:2338;
+vbs22-kis-v02;1654593227;1654593532;8936: 2278-2565 : 23.976025;;;;;123;1654593350;BROWSING;DetailWindowClose;8936:2338;
+vbs22-kis-v02;1654593227;1654593532;8936: 2278-2565 : 23.976025;;;;;123;1654593350;SUBMIT;;?item=08936&frame=2338&session=node0jf0lu7wjoysmv1jugrw4l3l9139;{"submission":"CORRECT" "description":"Submission correct!" "status":true}
+vbs22-kis-v03;1654594161;1654594466;15998: 850-1325 : 25;10000;301;301;301;29;1654594190;TEXT;JointEmbedding;Temporal CLIP: detail on a young man at night > piano player;
+vbs22-kis-v03;1654594161;1654594466;15998: 850-1325 : 25;10000;616;616;616;42;1654594203;TEXT;JointEmbedding;Temporal CLIP: detail on a young man at night > piano player from front;
+vbs22-kis-v03;1654594161;1654594466;15998: 850-1325 : 25;;;;;210;1654594371;BROWSING;RESET;;
+vbs22-kis-v04;1654594549;1654594854;14057: 15533-15974 : 29.97003;10000;995;995;995;25;1654594574;TEXT;JointEmbedding;Temporal CLIP: three persons walking in forrest > wooden bar in forrest;
+vbs22-kis-v04;1654594549;1654594854;14057: 15533-15974 : 29.97003;;;;;33;1654594582;BROWSING;VideoDetailOpen;5674:1675;
+vbs22-kis-v04;1654594549;1654594854;14057: 15533-15974 : 29.97003;;;;;38;1654594587;BROWSING;VideoDetailClose;5674:1675;1654594574
+vbs22-kis-v04;1654594549;1654594854;14057: 15533-15974 : 29.97003;10000;74;74;65;57;1654594606;TEXT;JointEmbedding;Temporal CLIP: three persons walking in forrest > people walking on harbor;
+vbs22-kis-v04;1654594549;1654594854;14057: 15533-15974 : 29.97003;10000;22;22;22;78;1654594627;IMAGE;feedbackModel;Temporal Bayes CLIP 15801:9602_4636:17694_15801:33716_16081:5862_7462:4706_15801:10549_15801:12342_13460:1590_5970:2644_14078:18207_| group:1|4636:17925_| group:2|7462:4719_;
+vbs22-kis-v04;1654594549;1654594854;14057: 15533-15974 : 29.97003;;;;;88;1654594637;BROWSING;DetailWindowOpen;14057:15659;
+vbs22-kis-v04;1654594549;1654594854;14057: 15533-15974 : 29.97003;;;;;89;1654594638;BROWSING;DetailWindowClose;14057:15659;
+vbs22-kis-v04;1654594549;1654594854;14057: 15533-15974 : 29.97003;;;;;89;1654594638;SUBMIT;;?item=14057&frame=15659&session=node0jf0lu7wjoysmv1jugrw4l3l9139;{"submission":"CORRECT" "description":"Submission correct!" "status":true}
+vbs22-kis-v05;1654594907;1654595212;16362: 4925-5250 : 25;10000;5723;5723;4856;30;1654594937;TEXT;JointEmbedding;Temporal CLIP: snowboarder jumping > snowboarder on a wall;
+vbs22-kis-v05;1654594907;1654595212;16362: 4925-5250 : 25;10000;7576;7576;4683;41;1654594948;TEXT;JointEmbedding;Temporal CLIP: snowboarder jumping close shot > snowboarder on a wall;
+vbs22-kis-v05;1654594907;1654595212;16362: 4925-5250 : 25;10000;4323;4323;2735;69;1654594976;IMAGE;feedbackModel;Temporal Bayes CLIP 4341:20669_4341:18363_4341:26656_1940:4819_4341:22536_4341:36793_1237:24438_4955:3034_4341:41620_4341:45056_| group:1|4341:18408_| group:2|4341:31639_;
+vbs22-kis-v05;1654594907;1654595212;16362: 4925-5250 : 25;10000;2066;2066;1829;113;1654595020;TEXT;JointEmbedding;Temporal CLIP: snowboarder in red jacket jumps close-up > snowboarder on a wall;
+vbs22-kis-v05;1654594907;1654595212;16362: 4925-5250 : 25;10000;703;703;703;128;1654595035;TEXT;JointEmbedding;Temporal CLIP: snowboarder in red jacket and black trousers jumping close-up > snowboarder on a wall;
+vbs22-kis-v05;1654594907;1654595212;16362: 4925-5250 : 25;10000;704;704;6;180;1654595087;TEXT;JointEmbedding;Temporal CLIP: snowboarder in red jacket and black trousers jumping close-up > snowboarder on a blue pipe;
+vbs22-kis-v05;1654594907;1654595212;16362: 4925-5250 : 25;10000;44;44;1;197;1654595104;IMAGE;feedbackModel;Temporal Bayes CLIP 425:5225_425:12781_14227:3675_15247:1806_16362:2281_4341:5749_13495:1431_12031:4625_4341:14949_4341:4366_| group:1|14227:3698_| group:2|16362:2338_;
+vbs22-kis-v05;1654594907;1654595212;16362: 4925-5250 : 25;;;;;206;1654595113;BROWSING;VideoDetailOpen;16362:4350;
+vbs22-kis-v05;1654594907;1654595212;16362: 4925-5250 : 25;;;;;210;1654595117;SUBMIT;;?item=16362&frame=4788&session=node0jf0lu7wjoysmv1jugrw4l3l9139;{"submission":"WRONG" "description":"Submission incorrect! Try again" "status":true}
+vbs22-kis-v05;1654594907;1654595212;16362: 4925-5250 : 25;;;;;217;1654595124;SUBMIT;;?item=16362&frame=5169&session=node0jf0lu7wjoysmv1jugrw4l3l9139;{"submission":"CORRECT" "description":"Submission correct!" "status":true}
+vbs22-kis-v06;1654595286;1654595591;15870: 2050-2275 : 25;10000;;;5951;21;1654595307;TEXT;JointEmbedding;CLIP: aerial view of mountain brounish;
+vbs22-kis-v06;1654595286;1654595591;15870: 2050-2275 : 25;10000;3087;3087;569;33;1654595319;TEXT;JointEmbedding;CLIP: aerial view of mountain with wing visible;
+vbs22-kis-v06;1654595286;1654595591;15870: 2050-2275 : 25;10000;1125;1125;202;42;1654595328;IMAGE;feedbackModel;Bayes CLIP 13102:7890_4579:599_4579:652_8066:26516_5120:3212_7183:2667_15856:10875_12748:3300_13102:2300_5120:1519_| group:1|2426:1862_16537:10617_;
+vbs22-kis-v06;1654595286;1654595591;15870: 2050-2275 : 25;;;;;55;1654595341;BROWSING;VideoDetailOpen;8344:4686;
+vbs22-kis-v06;1654595286;1654595591;15870: 2050-2275 : 25;;;;;59;1654595345;BROWSING;VideoDetailClose;8344:4686;1654595328
+vbs22-kis-v06;1654595286;1654595591;15870: 2050-2275 : 25;10000;484;484;41;75;1654595361;IMAGE;feedbackModel;Bayes CLIP 16537:10617_10867:769_5589:5402_16537:1394_10867:856_10179:1288_16291:2514_16537:10377_16291:7806_13629:7100_| group:1|8344:4716_;
+vbs22-kis-v06;1654595286;1654595591;15870: 2050-2275 : 25;;;;;91;1654595377;BROWSING;VideoDetailOpen;559:2532;
+vbs22-kis-v06;1654595286;1654595591;15870: 2050-2275 : 25;;;;;98;1654595384;BROWSING;DetailWindowOpen;559:2892;
+vbs22-kis-v06;1654595286;1654595591;15870: 2050-2275 : 25;;;;;102;1654595388;BROWSING;DetailWindowClose;559:2892;
+vbs22-kis-v06;1654595286;1654595591;15870: 2050-2275 : 25;;;;;104;1654595390;BROWSING;VideoDetailClose;559:2532;1654595361
+vbs22-kis-v06;1654595286;1654595591;15870: 2050-2275 : 25;10000;6;6;1;115;1654595401;IMAGE;feedbackModel;Bayes CLIP 2426:1862_13629:881_15482:4990_8078:756_9407:3551_10684:288_4752:4278_8463:420_3528:631_4512:8759_| group:1|559:2532_15870:3869_;
+vbs22-kis-v06;1654595286;1654595591;15870: 2050-2275 : 25;10000;9676;9676;1373;139;1654595425;IMAGE;JointEmbedding;559:2892 : rows=True;
+vbs22-kis-v06;1654595286;1654595591;15870: 2050-2275 : 25;;;;;164;1654595450;BROWSING;SimilarityDetailClose;559:2892;1654595401
+vbs22-kis-v06;1654595286;1654595591;15870: 2050-2275 : 25;10000;9676;9676;1373;166;1654595452;IMAGE;JointEmbedding;559:2892 : rows=False;
+vbs22-kis-v06;1654595286;1654595591;15870: 2050-2275 : 25;;;;;182;1654595468;BROWSING;DetailWindowOpen;559:2532;
+vbs22-kis-v06;1654595286;1654595591;15870: 2050-2275 : 25;;;;;204;1654595490;BROWSING;DetailWindowClose;559:2532;
+vbs22-kis-v06;1654595286;1654595591;15870: 2050-2275 : 25;;;;;210;1654595496;BROWSING;VideoDetailOpen;559:2532;
+vbs22-kis-v06;1654595286;1654595591;15870: 2050-2275 : 25;;;;;218;1654595504;BROWSING;VideoDetailClose;559:2532;1654595452
+vbs22-kis-v06;1654595286;1654595591;15870: 2050-2275 : 25;;;;;267;1654595553;BROWSING;SimilarityDetailClose;559:2892;1654595401
+vbs22-kis-v06;1654595286;1654595591;15870: 2050-2275 : 25;;;;;294;1654595580;BROWSING;RESET;;
+vbs22-kis-v07;1654598019;1654598324;6681: 4320-4830 : 30;10000;67;67;67;25;1654598044;TEXT;JointEmbedding;CLIP: man on a bridge over a gore;
+vbs22-kis-v07;1654598019;1654598324;6681: 4320-4830 : 30;10000;531;531;531;42;1654598061;TEXT;JointEmbedding;CLIP: man on a bridge over a brownish gore with a turqoise river;
+vbs22-kis-v07;1654598019;1654598324;6681: 4320-4830 : 30;10000;47;47;47;58;1654598077;IMAGE;feedbackModel;Bayes CLIP 12949:9249_1472:35341_849:1319_631:3094_842:17394_17077:5994_8974:29438_6915:5918_7100:4856_4636:35438_| group:1|8066:21668_15840:4388_;
+vbs22-kis-v07;1654598019;1654598324;6681: 4320-4830 : 30;10000;53;53;53;154;1654598173;IMAGE;feedbackModel;Bayes CLIP 8066:21668_4895:21894_8066:21706_6813:5212_8066:22732_8066:21563_11765:294_6910:4522_9390:982_8066:21256_| group:1|8066:21691_;
+vbs22-kis-v07;1654598019;1654598324;6681: 4320-4830 : 30;;;;;250;1654598269;BROWSING;RESET;;
+vbs22-kis-v07;1654598019;1654598324;6681: 4320-4830 : 30;10000;58;89;58;269;1654598288;TEXT;JointEmbedding;CLIP: acrobat on bridge;
+vbs22-kis-v08;1654598411;1654598716;6991: 3692-4172 : 23.976025;10000;762;762;762;22;1654598433;TEXT;JointEmbedding;Temporal CLIP: two runners on wooden road > two bikers in woods;
+vbs22-kis-v08;1654598411;1654598716;6991: 3692-4172 : 23.976025;10000;406;406;406;32;1654598443;TEXT;JointEmbedding;Temporal CLIP: two runners on wooden road > detail of two bikers in woods;
+vbs22-kis-v08;1654598411;1654598716;6991: 3692-4172 : 23.976025;10000;2207;2207;2207;60;1654598471;TEXT;JointEmbedding;Temporal CLIP: joggers with helmet on wooden road > detail of two bikers in woods;
+vbs22-kis-v08;1654598411;1654598716;6991: 3692-4172 : 23.976025;10000;9437;9437;9437;72;1654598483;TEXT;JointEmbedding;Temporal CLIP: joggers with helmet in woods > detail of two bikers in woods;
+vbs22-kis-v08;1654598411;1654598716;6991: 3692-4172 : 23.976025;10000;;;;96;1654598507;IMAGE;feedbackModel;Temporal Bayes CLIP 823:20431_12186:625_12186:1075_11696:9075_12979:1170_12979:590_11696:9694_153:4028_13674:2375_12979:7131_| group:1|2620:18829_| group:2|153:4162_;
+vbs22-kis-v08;1654598411;1654598716;6991: 3692-4172 : 23.976025;10000;;;3820;138;1654598549;TEXT;JointEmbedding;Temporal CLIP: detail of two bikers in woods > two bikers on forrest road;
+vbs22-kis-v08;1654598411;1654598716;6991: 3692-4172 : 23.976025;10000;;;7201;151;1654598562;TEXT;JointEmbedding;Temporal CLIP: detail of two bikers in woods > two cyclerson forest road;
+vbs22-kis-v08;1654598411;1654598716;6991: 3692-4172 : 23.976025;10000;5388;5388;475;163;1654598574;TEXT;JointEmbedding;Temporal CLIP: detail of two cyclists in woods > two cyclers on forest road;
+vbs22-kis-v08;1654598411;1654598716;6991: 3692-4172 : 23.976025;;;;;175;1654598586;BROWSING;VideoDetailOpen;13265:6390;
+vbs22-kis-v08;1654598411;1654598716;6991: 3692-4172 : 23.976025;;;;;188;1654598599;BROWSING;VideoDetailClose;13265:6390;1654598574
+vbs22-kis-v08;1654598411;1654598716;6991: 3692-4172 : 23.976025;10000;4;4;4;225;1654598636;TEXT;JointEmbedding;Temporal CLIP: two runners with a dog > two cyclers on forest road;
+vbs22-kis-v08;1654598411;1654598716;6991: 3692-4172 : 23.976025;;;;;236;1654598647;BROWSING;VideoDetailOpen;6991:3860;
+vbs22-kis-v08;1654598411;1654598716;6991: 3692-4172 : 23.976025;;;;;242;1654598653;BROWSING;VideoDetailClose;6991:3860;1654598636
+vbs22-kis-v08;1654598411;1654598716;6991: 3692-4172 : 23.976025;;;;;298;1654598709;BROWSING;RESET;;
+vbs22-kis-v09;1654598788;1654599093;6908: 240-839 : 29.97003;10000;22;22;22;31;1654598819;TEXT;JointEmbedding;Temporal CLIP: detail of a mans face in jacket in night > man in front of a skyline at night;
+vbs22-kis-v09;1654598788;1654599093;6908: 240-839 : 29.97003;10000;5;5;5;49;1654598837;IMAGE;feedbackModel;Temporal Bayes CLIP 5723:570_16135:488_5723:2718_8193:5095_4632:1994_9069:32233_9198:1119_5105:502_16371:5469_6422:4882_| group:1|16371:5512_| group:2|9198:1519_;
+vbs22-kis-v09;1654598788;1654599093;6908: 240-839 : 29.97003;;;;;59;1654598847;SUBMIT;;?item=06908&frame=225&session=node0x2vmsbnn5xvqqok93qp80cw6621;{"submission":"WRONG" "description":"Submission incorrect! Try again" "status":true}
+vbs22-kis-v09;1654598788;1654599093;6908: 240-839 : 29.97003;;;;;63;1654598851;BROWSING;VideoDetailOpen;6908:225;
+vbs22-kis-v09;1654598788;1654599093;6908: 240-839 : 29.97003;;;;;78;1654598866;BROWSING;VideoDetailClose;6908:225;1654598837
+vbs22-kis-v09;1654598788;1654599093;6908: 240-839 : 29.97003;;;;;80;1654598868;BROWSING;DetailWindowOpen;6908:307;
+vbs22-kis-v09;1654598788;1654599093;6908: 240-839 : 29.97003;;;;;89;1654598877;BROWSING;DetailWindowClose;6908:307;
+vbs22-kis-v09;1654598788;1654599093;6908: 240-839 : 29.97003;;;;;89;1654598877;SUBMIT;;?item=06908&frame=330&session=node0x2vmsbnn5xvqqok93qp80cw6621;{"submission":"CORRECT" "description":"Submission correct!" "status":true}
+vbs22-kis-v10;1654599321;1654599626;16004: 5634-5964 : 29.97003;10000;1;1;1;27;1654599348;TEXT;JointEmbedding;CLIP: girl with piercing wave to the camera in winter forest;
+vbs22-kis-v10;1654599321;1654599626;16004: 5634-5964 : 29.97003;;;;;29;1654599350;BROWSING;DetailWindowOpen;16004:5672;
+vbs22-kis-v10;1654599321;1654599626;16004: 5634-5964 : 29.97003;;;;;32;1654599353;BROWSING;DetailWindowClose;16004:5672;
+vbs22-kis-v10;1654599321;1654599626;16004: 5634-5964 : 29.97003;;;;;32;1654599353;SUBMIT;;?item=16004&frame=5672&session=node0x2vmsbnn5xvqqok93qp80cw6621;{"submission":"CORRECT" "description":"Submission correct!" "status":true}
+vbs22-kis-v11;1654599754;1654600059;5398: 4780-5125 : 29.97003;10000;1588;4705;221;23;1654599777;TEXT;JointEmbedding;Temporal CLIP: exteriors > large whitish building with columns;
+vbs22-kis-v11;1654599754;1654600059;5398: 4780-5125 : 29.97003;10000;798;;48;136;1654599890;TEXT;JointEmbedding;Temporal CLIP: exteriors > building with clocks;
+vbs22-kis-v11;1654599754;1654600059;5398: 4780-5125 : 29.97003;10000;14;8940;1;168;1654599922;TEXT;JointEmbedding;Temporal CLIP: exteriors text > building with clocks;
+vbs22-kis-v11;1654599754;1654600059;5398: 4780-5125 : 29.97003;10000;;;416;212;1654599966;TEXT;JointEmbedding;CLIP: dar es salam;
+vbs22-kis-v11;1654599754;1654600059;5398: 4780-5125 : 29.97003;10000;4090;4090;4090;226;1654599980;TEXT;JointEmbedding;Temporal CLIP: building with clocks > dar es salam;
+vbs22-kis-v11;1654599754;1654600059;5398: 4780-5125 : 29.97003;10000;14;8940;1;254;1654600008;TEXT;JointEmbedding;Temporal CLIP: exteriors text > building with clocks;
+vbs22-kis-v11;1654599754;1654600059;5398: 4780-5125 : 29.97003;10000;5;5669;5;277;1654600031;TEXT;JointEmbedding;Temporal CLIP: exteriors text > dar es;
+vbs22-kis-v11;1654599754;1654600059;5398: 4780-5125 : 29.97003;;;;;299;1654600053;BROWSING;RESET;;
+vbs22-kis-v12;1654600524;1654600829;13778: 7672-7852 : 29.97003;10000;2;2;2;23;1654600547;TEXT;JointEmbedding;CLIP: hand with pil in front of a sink;
+vbs22-kis-v12;1654600524;1654600829;13778: 7672-7852 : 29.97003;;;;;25;1654600549;BROWSING;DetailWindowOpen;13778:7777;
+vbs22-kis-v12;1654600524;1654600829;13778: 7672-7852 : 29.97003;;;;;27;1654600551;BROWSING;DetailWindowClose;13778:7777;
+vbs22-kis-v12;1654600524;1654600829;13778: 7672-7852 : 29.97003;;;;;27;1654600551;SUBMIT;;?item=13778&frame=7777&session=node0x2vmsbnn5xvqqok93qp80cw6621;{"submission":"CORRECT" "description":"Submission correct!" "status":true}
+vbs22-kis-v13;1654600900;1654601205;9070: 8882-9300 : 25;10000;239;239;2;20;1654600920;TEXT;JointEmbedding;CLIP: female dancing in sport hall;
+vbs22-kis-v13;1654600900;1654601205;9070: 8882-9300 : 25;;;;;25;1654600925;BROWSING;VideoDetailOpen;9070:5575;
+vbs22-kis-v13;1654600900;1654601205;9070: 8882-9300 : 25;;;;;31;1654600931;BROWSING;DetailWindowOpen;9070:8944;
+vbs22-kis-v13;1654600900;1654601205;9070: 8882-9300 : 25;;;;;39;1654600939;BROWSING;DetailWindowClose;9070:8944;
+vbs22-kis-v13;1654600900;1654601205;9070: 8882-9300 : 25;;;;;39;1654600939;SUBMIT;;?item=09070&frame=9038&session=node0x2vmsbnn5xvqqok93qp80cw6621;{"submission":"CORRECT" "description":"Submission correct!" "status":true}
